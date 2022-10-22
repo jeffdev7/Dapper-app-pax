@@ -1,0 +1,7 @@
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper_menu\obj\Debug\net6.0\Dapper_menu.csproj.AssemblyReference.cache
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper_menu\obj\Debug\net6.0\Dapper_menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper_menu\obj\Debug\net6.0\Dapper_menu.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper_menu\obj\Debug\net6.0\Dapper_menu.AssemblyInfo.cs
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper_menu\obj\Debug\net6.0\Dapper_menu.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper_menu\obj\Debug\net6.0\Dapper_menu.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper_menu\obj\Debug\net6.0\Dapper_menu.MvcApplicationPartsAssemblyInfo.cache

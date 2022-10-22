@@ -1,0 +1,12 @@
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.Persistence\bin\Debug\net6.0\Dapper.menu.Domain.Persistence.deps.json
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.Persistence\bin\Debug\net6.0\Dapper.menu.Domain.Persistence.dll
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.Persistence\bin\Debug\net6.0\ref\Dapper.menu.Domain.Persistence.dll
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.Persistence\bin\Debug\net6.0\Dapper.menu.Domain.Persistence.pdb
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.Persistence\obj\Debug\net6.0\Dapper.menu.Domain.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.Persistence\obj\Debug\net6.0\Dapper.menu.Domain.Persistence.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.Persistence\obj\Debug\net6.0\Dapper.menu.Domain.Persistence.AssemblyInfo.cs
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.Persistence\obj\Debug\net6.0\Dapper.menu.Domain.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.Persistence\obj\Debug\net6.0\Dapper.menu.Domain.Persistence.dll
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.Persistence\obj\Debug\net6.0\ref\Dapper.menu.Domain.Persistence.dll
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.Persistence\obj\Debug\net6.0\Dapper.menu.Domain.Persistence.pdb
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.Persistence\obj\Debug\net6.0\Dapper.menu.Domain.Persistence.csproj.AssemblyReference.cache

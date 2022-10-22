@@ -1,0 +1,12 @@
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.WebAPI.Core\bin\Debug\net6.0\Dapper.menu.WebAPI.Core.deps.json
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.WebAPI.Core\bin\Debug\net6.0\Dapper.menu.WebAPI.Core.dll
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.WebAPI.Core\bin\Debug\net6.0\ref\Dapper.menu.WebAPI.Core.dll
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.WebAPI.Core\bin\Debug\net6.0\Dapper.menu.WebAPI.Core.pdb
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.WebAPI.Core\obj\Debug\net6.0\Dapper.menu.WebAPI.Core.csproj.AssemblyReference.cache
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.WebAPI.Core\obj\Debug\net6.0\Dapper.menu.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.WebAPI.Core\obj\Debug\net6.0\Dapper.menu.WebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.WebAPI.Core\obj\Debug\net6.0\Dapper.menu.WebAPI.Core.AssemblyInfo.cs
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.WebAPI.Core\obj\Debug\net6.0\Dapper.menu.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.WebAPI.Core\obj\Debug\net6.0\Dapper.menu.WebAPI.Core.dll
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.WebAPI.Core\obj\Debug\net6.0\ref\Dapper.menu.WebAPI.Core.dll
+C:\Users\Jefferson\Documents\Dapper_menu\Dapper.menu.WebAPI.Core\obj\Debug\net6.0\Dapper.menu.WebAPI.Core.pdb
