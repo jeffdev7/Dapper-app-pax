@@ -48,7 +48,12 @@ namespace Dapper.menu.API.Controllers
             var result = await _paxRepository.GetAll();
             return Ok(result);
         }
-
+        [HttpGet("GetGroupOfPax")]
+        public async Task<IActionResult> GetPaxAndNumberOfThemAsync()
+        {
+            var result = await _paxRepository.GetPaxAndNumberOfThemAsync();
+            return Ok(result);
+        }
         //[HttpGet("GetPaged")]
         //public async Task<IActionResult> GetListPaged(int pageNumber, int rowPerPages, string conditions, string orderby)
         //{
