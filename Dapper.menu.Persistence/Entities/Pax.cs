@@ -16,7 +16,7 @@
 
         private Pax() { }
 
-        void UpdateEmail(string email) =>  Email = email;
+        //void UpdateEmail(string email) =>  Email = email;
         
     }
 }
